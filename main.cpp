@@ -12,7 +12,7 @@ int main()
     int index = 2;
     int total = 0;
 
-    //a loop that runs loops through each integer to check if it
+    //a loop that runs through each integer to check if it
     //is a multiple of 3 or 5
     for(int i = 6; i < 1000; i++)
     {
